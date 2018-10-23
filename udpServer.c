@@ -38,5 +38,6 @@ int main(void) {
 	}
 
 	close(s);
+	
 	return 0;
 }
